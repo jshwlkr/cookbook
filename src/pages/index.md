@@ -1,5 +1,5 @@
 ---
-title: Eleventufte
+title: The Family Cookbook
 subtitle: A Tufte-flavored starter kit for the Eleventy static site generator
 permalink: "/"
 ---
