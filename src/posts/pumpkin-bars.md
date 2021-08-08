@@ -9,14 +9,14 @@ tags:
 - 4 eggs
 - 1 2/3 cup sugar
 - 1 cup cooking oil
-- 1 16 oz. can pumpkin
+- 1 16 ounce can pumpkin
 - 2 cups flour
-- 2 tsp. baking powder
-- 2 tsp. cinnamon
-- 1 tsp. salt
-- 1 tsp. baking soda
+- 2 teaspoon baking powder
+- 2 teaspoon cinnamon
+- 1 teaspoon salt
+- 1 teaspoon baking soda
 
 ### Directions
 
-Mix all ingredients together until well blended. Spread mixture on well-greased jelly roll pan, or cookie sheet with sides. 
-Bake about 25-30 min. @ 350. Cool. Spread cream cheese frosting on top.
+Mix all ingredients together until well blended. Spread mixture on well-greased jelly roll pan, or cookie sheet with sides. Bake about 25-30 minutes at 350&deg;F. Let cool.
+Spread [cream cheese frosting](/cream-cheese-frosting/) on top.
