@@ -1,16 +1,10 @@
 {
   "title" : "The Family Cookbook",
-  "subtitle": "An Edward Tufte flavored blogging template for Eleventy",
+  "subtitle": "A collection of family recipes.",
   "url": "https://jshwlkr.github.io/cookbook/",
   "feedUrl": "/feed.xml",
   "lang": "en",
   "author": {
-    "name": "Jeff Eaton",
-    "email": "jeff@eaton.fyi"
-  },
-  "social": {
-    "twitter": "http://twitter.com/eaton",
-    "github": "https://github.com/nerdhaus/eleventufte",
-    "linkedin": "https://linkedin.com/in/jeffeaton"
+    "name": "Joshua Walker"
   }
 }

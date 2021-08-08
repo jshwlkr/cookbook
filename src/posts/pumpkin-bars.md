@@ -19,4 +19,4 @@ tags:
 ### Directions
 
 Mix all ingredients together until well blended. Spread mixture on well-greased jelly roll pan, or cookie sheet with sides. Bake about 25-30 minutes at 350&deg;F. Let cool.
-Spread [cream cheese frosting](/cream-cheese-frosting/) on top.
+Spread <a href="{{ '/cream-cheese-frosting/' | url }}">cream cheese frosting</a> on top.

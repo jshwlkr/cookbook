@@ -28,5 +28,5 @@ Sift flour and sugar into bowl. Blend in butter with fingertips until well mixed
 
 ### Directions
 
-Pour over baked crust and return to oven for 20 - 25 minutes at same temperature.
+Pour over baked crust and return to oven for 20 - 25 minutes at same temperature (350&deg;F).
 Cool on rack. Cut in squares. Sprinkle with sifted powdered sugar.

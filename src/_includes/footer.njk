@@ -1,6 +1,6 @@
 <footer>
   <p class="social-links">
-    <a href="/"><span class="fas fa-home"></span></a>
+    <a href="{{ '/' | url }}"><span class="fas fa-home"></span></a>
     {% if meta.social or meta.author.email %}
     &nbsp
     {% if meta.social.twitter %}<a href="{{ meta.social.twitter }}"><span class="fas fa-twitter-square"></span></a>{% endif %}
@@ -14,6 +14,6 @@
     {% if meta.feedUrl %}<a href="{{ meta.feedUrl }}"><span class="fas fa-rss-square"></span></a>{% endif %}
     &nbsp
     {% endif %}
-    <a href="/search"><span class="fas fa-search"></span></a>
+    <a href="{{ '/search/' | url }}"><span class="fas fa-search"></span></a>
   </p>
 </footer>
