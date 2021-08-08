@@ -5,11 +5,13 @@ jobs:
   build_deploy:
     runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@master
-      - name: Install
-        run: npm ci
+      - name: Checkout
+        uses: actions/checkout@master
       - name: Build
         uses: TartanLlama/actions-eleventy@v1.1
+        with:
+          args: --pathprefix=cookbook
+          install_dependencies: true
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v1.1.0
         env:
