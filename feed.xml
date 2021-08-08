@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>The Family Cookbook</title>
+  <subtitle>A collection of family recipes.</subtitle>
+  <link href="https://jshwlkr.github.io/cookbook//feed.xml" rel="self"/>
+  <link href="https://jshwlkr.github.io/cookbook/"/>
+  <updated>2021-08-08T06:30:49+00:00</updated>
+  <id>https://jshwlkr.github.io/cookbook/</id>
+  <author>
+    <name>Joshua Walker</name>
+    <email></email>
+  </author>
+  
+  <entry>
+    <title>undefined</title>
+    <link href="https://jshwlkr.github.io/cookbook/archive/cream-cheese-frosting/"/>
+    <updated>2021-08-08T06:30:49+00:00</updated>
+    <id>https://jshwlkr.github.io/cookbook/archive/cream-cheese-frosting/</id>
+    <content type="html">&lt;section&gt;&lt;ul&gt;
+&lt;li&gt;1 3 ounce package of cream cheese&lt;/li&gt;
+&lt;li&gt;1 cup margarine&lt;/li&gt;
+&lt;li&gt;1 teaspoon vanilla&lt;/li&gt;
+&lt;li&gt;2 cups confectioner’s sugar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cream together softened cream cheese and margarine. Stir in vanilla. Add sugar in small amounts and beat until smooth.&lt;/p&gt;
+&lt;/section&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>undefined</title>
+    <link href="https://jshwlkr.github.io/cookbook/archive/lemon-bars/"/>
+    <updated>2021-08-08T06:30:49+00:00</updated>
+    <id>https://jshwlkr.github.io/cookbook/archive/lemon-bars/</id>
+    <content type="html">&lt;section&gt;&lt;h2 id=&quot;crust&quot;&gt;Crust&lt;/h2&gt;&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;3 cups flour&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;1 1/2 cup butter&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3/4 cup powdered sugar&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id=&quot;directions&quot;&gt;Directions&lt;/h3&gt;&lt;p&gt;Sift flour and sugar into bowl. Blend in butter with fingertips until well mixed. Pat evenly into a baking pan. Bake for 20 minutes at 350°F. Prepare filling.&lt;/p&gt;&lt;/section&gt;
+&lt;section&gt;&lt;h2 id=&quot;filling&quot;&gt;Filling&lt;/h2&gt;&lt;h3 id=&quot;ingredients-1&quot;&gt;Ingredients&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;6 eggs&lt;/li&gt;
+&lt;li&gt;3 cups granulated sugar&lt;/li&gt;
+&lt;li&gt;1 1/2 teaspoons baking powder&lt;/li&gt;
+&lt;li&gt;7 1/2 tablespoons lemon juice&lt;/li&gt;
+&lt;li&gt;dash of salt&lt;/li&gt;
+&lt;/ul&gt;&lt;h3 id=&quot;directions-1&quot;&gt;Directions&lt;/h3&gt;&lt;p&gt;Pour over baked crust and return to oven for 20 − 25 minutes at same temperature (350°F).
+Cool on rack. Cut in squares. Sprinkle with sifted powdered sugar.&lt;/p&gt;&lt;/section&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>undefined</title>
+    <link href="https://jshwlkr.github.io/cookbook/archive/pumpkin-bars/"/>
+    <updated>2021-08-08T06:30:49+00:00</updated>
+    <id>https://jshwlkr.github.io/cookbook/archive/pumpkin-bars/</id>
+    <content type="html">&lt;section&gt;&lt;h3 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;4 eggs&lt;/li&gt;
+&lt;li&gt;1 2/3 cup sugar&lt;/li&gt;
+&lt;li&gt;1 cup cooking oil&lt;/li&gt;
+&lt;li&gt;1 16 ounce can pumpkin&lt;/li&gt;
+&lt;li&gt;2 cups flour&lt;/li&gt;
+&lt;li&gt;2 teaspoon baking powder&lt;/li&gt;
+&lt;li&gt;2 teaspoon cinnamon&lt;/li&gt;
+&lt;li&gt;1 teaspoon salt&lt;/li&gt;
+&lt;li&gt;1 teaspoon baking soda&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;directions&quot;&gt;Directions&lt;/h3&gt;
+&lt;p&gt;Mix all ingredients together until well blended. Spread mixture on well-greased jelly roll pan, or cookie sheet with sides. Bake about 25–30 minutes at 350°F. Let cool.
+Spread &lt;a href=&quot;https://jshwlkr.github.io/cookbook/cream-cheese-frosting/&quot;&gt;cream cheese frosting&lt;/a&gt; on top.&lt;/p&gt;
+&lt;/section&gt;</content>
+  </entry>
+</feed>
